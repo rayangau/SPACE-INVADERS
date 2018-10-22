@@ -1,0 +1,21 @@
+#vaisseau{
+
+/*height : 100px;
+width : 100px;*/
+position:absolute;
+bottom:0px;
+left:0px;
+width: 300px;
+height: 5px;
+background-image :url('vaisseau.jpg');
+}
+h1{
+  color:red;
+
+
+}
+#rectangle{
+  background-color: white;
+  width:100px;
+  height:100px;
+}
