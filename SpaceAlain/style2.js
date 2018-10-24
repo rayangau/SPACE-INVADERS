@@ -140,13 +140,13 @@ carre.onclick = function () {
 
 
 
-/*function isCollide(bricks, carre) {
-    return !(
-        ((bricks.y + bricks.height) < (carre.y)) ||
-        (bricks.y > (carre.y + carre.height)) ||
-        ((bricks.x + bricks.width) < carre.x) ||
-        (bricks.x > (carre.x + carre.width))
-    );*/
+// function isCollide(bricks, carre) {
+//     return !(
+//         ((bricks.y + bricks.height) < (carre.y)) ||
+//         (bricks.y > (carre.y + carre.height)) ||
+//         ((bricks.x + bricks.width) < carre.x) ||
+//         (bricks.x > (carre.x + carre.width))
+//     );
 
 // function collisionDetection() {
 //     for(var c=0; c<brickColumnCount; c++) {

@@ -155,6 +155,10 @@ function rectangle() {
     }
 }
 
+
+
+
+
 // function rectangle() {
 //     rectangle.style.height = parseInt(rectangle.style.height) + 10 + "px";
 //     if (parseInt(rectangle.style.height) >= 760) {
