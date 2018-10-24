@@ -10,12 +10,14 @@ height: 5px;
 background-image :url('vaisseau.jpg');
 }
 h1{
-  color:red;
+  color:blue;
 
 
 }
-#rectangle{
-  background-color: white;
+
+#block1{
   width:100px;
   height:100px;
+  background-image: url('soucoupe.jpg');
+
 }
